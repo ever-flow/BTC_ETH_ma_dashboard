@@ -27,8 +27,6 @@ loguru>=0.7.0
 # Configuration
 python-dotenv>=1.0.0
 
-# Email Support (optional)
-smtplib-ssl>=1.0.0
 
 # Development & Testing
 pytest>=7.4.0
