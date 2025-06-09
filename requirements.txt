@@ -1,0 +1,60 @@
+# Core Data Processing
+pandas>=1.5.0
+numpy>=1.24.0
+yfinance>=0.2.12
+
+# Web Framework
+streamlit>=1.28.0
+
+# Visualization
+plotly>=5.17.0
+
+# Date/Time Handling
+python-dateutil>=2.8.2
+
+# Scheduling
+schedule>=1.2.0
+
+# HTTP Requests
+requests>=2.31.0
+
+# Parallel Processing
+concurrent-futures>=3.1.1
+
+# Data Validation
+pydantic>=2.4.0
+
+# Logging
+loguru>=0.7.0
+
+# Configuration
+python-dotenv>=1.0.0
+
+# Email Support (optional)
+smtplib-ssl>=1.0.0
+
+# Development & Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+black>=23.9.0
+flake8>=6.0.0
+
+# Production Server (optional)
+gunicorn>=21.2.0
+uvicorn>=0.23.0
+
+# Caching (optional)
+redis>=5.0.0
+
+# Database (optional)
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0
+
+# Monitoring (optional)
+sentry-sdk>=1.35.0
+
+# Memory optimization
+memory-profiler>=0.61.0
+
+# Fast JSON
+orjson>=3.9.0
